@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Data Science Course TRaining
+Data Science Course Training
