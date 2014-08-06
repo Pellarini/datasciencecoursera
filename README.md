@@ -3,6 +3,6 @@ datasciencecoursera
 
 Data Science Course Training
 ===========================
-Author Peter Shortsleeves
+Author; Peter Shortsleeves
 -------------------------
 Alias; Pellarini
